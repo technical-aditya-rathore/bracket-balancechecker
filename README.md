@@ -36,9 +36,13 @@ Project Structure
 Project2
 
 └── src
+
 ├── Start
+
 └── Task2.java
+
 └── Test
+
 └── BracketsEqualTest.java
 
  How to Run
@@ -70,4 +74,5 @@ JUnit & TestNG
  Author
 
 Aditya Kumar Jha (The Psycho Coder)
+
 GitHub: https://github.com/technical-aditya-rathore
